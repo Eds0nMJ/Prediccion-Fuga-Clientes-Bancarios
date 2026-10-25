@@ -14,7 +14,7 @@ Mediante consultas SQL sobre una cartera de 10,000 registros, se detectó una ta
 2. **Riesgo por Edad:** La probabilidad de fuga se dispara en clientes mayores de 50 años.
 3. **Paradoja del Saldo:** Contraintuitivamente, los clientes *con saldo en sus cuentas* presentan casi el doble de fuga frente a las cuentas en cero, sugiriendo que la competencia está capturando cuentas activas y rentables.
 
-![Dashboard Power BI](Dashboard_PowerBI.png)
+![Dashboard Power BI](Dashboard_Churn_Bancario.png)
 
 ## 🤖 Rendimiento del Modelo Predictivo (Machine Learning)
 Se entrenó un algoritmo **Random Forest Classifier** optimizado para lidiar con el desbalance de clases nativo del sector bancario (`class_weight='balanced'`).
